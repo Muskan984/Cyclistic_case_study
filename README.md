@@ -10,5 +10,6 @@ In order to answer the key business questions, I will follow the steps of the da
 > Data Visualization using Tableau Public.
 
 Dataset :- https://divvy-tripdata.s3.amazonaws.com/index.html
-Data Visualization :- https://public.tableau.com/views/GoogleBikeShare/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+
+Data Visualization :- Cyclistic-Case_Study.link[https://public.tableau.com/views/GoogleBikeShare/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link]
 
