@@ -9,5 +9,6 @@ In order to answer the key business questions, I will follow the steps of the da
 > Data cleaning, manipulation and exploration using MS-SQL.
 > Data Visualization using Tableau Public.
 
-Dataset :- link[https://divvy-tripdata.s3.amazonaws.com/index.html]
+Dataset :- https://divvy-tripdata.s3.amazonaws.com/index.html
+Data Visualization :- https://public.tableau.com/views/GoogleBikeShare/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
